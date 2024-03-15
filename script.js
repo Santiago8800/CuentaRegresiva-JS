@@ -29,4 +29,4 @@ function formatTime(tiempo) {
 // initial call
 cuentaRegresiva();
 
-setInterval(countdown, 1000);
+setInterval(cuentaRegresiva, 1000);
