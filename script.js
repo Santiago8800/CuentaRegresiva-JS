@@ -3,7 +3,7 @@ const horasH = document.getElementById("Horas");
 const minutosM = document.getElementById("Minutos");
 const segundosS = document.getElementById("Segundos");
 //Año para contador
-const añoNuevo = "1 January 2025";
+const añoNuevo = "1 January 2026";
 
 function cuentaRegresiva() {
     const añonuevoFecha = new Date(añoNuevo);
